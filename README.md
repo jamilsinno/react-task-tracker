@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 Editor notes:
-Potential improvements for the future: fix routing from v5 to v6
+Potential improvements for the future: fix routing from v5 to v6 - Solved July 10, 2022. Error was forgot to change href to to
 
 ## Available Scripts
 
