@@ -3,6 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Editor notes:
+Potential improvements for the future: fix routing from v5 to v6
+
+## Available Scripts
 
 In the project directory, you can run:
 
